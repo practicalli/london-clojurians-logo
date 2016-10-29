@@ -6,6 +6,8 @@ The current favorite design is:
 
 ![London Clojurians logo](london-clojurians-logo-jr0cket.png)
 
+## Design tools
+
 Logo's developed using [Inkscape](https://inkscape.org/), a free and open-source professional vector graphics editor for Linux, MacOSX and Windows.
 
 ## Design thoughts
@@ -17,7 +19,6 @@ Alternatively, the design represents a stylised clock-face of the clock that sur
 
 ## Copyright & Licence
 
-Copyright © 2016 John Stevenson @jr0cket
+Copyright © 2016 John Stevenson [@jr0cket](https://twitter.com/jr0cket)
 
 Distributed under the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org).
-
