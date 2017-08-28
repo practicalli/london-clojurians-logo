@@ -1,17 +1,36 @@
-# Logo designs for the London Clojurians community
+## London Clojurians logo
 
-Logo designs for the London Clojurian community.
+To identify sites and content that has been created or supported by the London Clojurians we have created a community Logo
 
-The current favorite designs are:
+![London Clojurians logo](london-clojurians-logo.png)
 
-![London Clojurians logo](london-clojurians-text-jr0cket.png)
-![London Clojurians logo](london-clojurians-text-highlight-jr0cket.png)
-![London Clojurians logo](london-clojurians-text-highlight-lambda-jr0cket.png)
-![London Clojurians logo](london-clojurians-logo-jr0cket.png)
+The logo is available as [SVG](https://github.com/jr0cket/london-clojurians-logo/raw/master/london-clojurians-logo.svg) or [PNG](https://github.com/jr0cket/london-clojurians-logo/raw/master/london-clojurians-logo.png) formats.
+
+
+## Copyright & Licence
+
+Copyright © 2016 John Stevenson [@jr0cket](https://twitter.com/jr0cket)
+
+Distributed under the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org).
+
+
+## Banners
+
+The logo is also available as part of a banner that can be used to promote the London Clojure community or serve as a header / footer to any London Clojurians web sites.
+
+![London Clojurians logo](banners/london-clojurians-banner-new.png)
+
+The banner is available as [SVG](https://github.com/jr0cket/london-clojurians-logo/blob/master/banners/london-clojurians-banner-new.svg) or [PNG](https://github.com/jr0cket/london-clojurians-logo/blob/master/banners/london-clojurians-banner-new.png) formats.
+
+There is also a banner specifically for Google Forms, available as [SVG](https://github.com/jr0cket/london-clojurians-logo/raw/master/banners/london-clojurians-banner-lambda-google-form.png) or [PNG](https://github.com/jr0cket/london-clojurians-logo/raw/master/banners/london-clojurians-banner-lambda-google-form.png) formats.
+
 
 ## Design tools
 
 Logo's developed using [Inkscape](https://inkscape.org/), a free and open-source professional vector graphics editor for Linux, MacOSX and Windows.
+
+![Inkscape - draw freely](https://media.inkscape.org/static/images/inkscape-logo.svg)
+
 
 ## Design thoughts
 
@@ -24,8 +43,10 @@ The rough idea behind the third design is that the outer blue circle represents 
 Alternatively, the design represents a stylised clock-face of the clock that surrounds Big Ben bell in the Elizabeth Tower in London.
 
 
-## Copyright & Licence
+## Early Logo designs
 
-Copyright © 2016 John Stevenson [@jr0cket](https://twitter.com/jr0cket)
+Several iterations of the Logo design were created to gather feedback from the London Clojurians community.  Here are some of the main stages of logo design evolution.
 
-Distributed under the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org).
+![London Clojurians logo](design-evolution/london-clojurians-text-jr0cket.png)
+![London Clojurians logo](design-evolution/london-clojurians-text-highlight-jr0cket.png)
+![London Clojurians logo](design-evolution/london-clojurians-logo-jr0cket.png)
