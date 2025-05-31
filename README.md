@@ -4,14 +4,14 @@ To identify sites and content that has been created or supported by the London C
 
 ![London Clojurians logo](london-clojurians-logo.png)
 
-The logo is available as [SVG](https://github.com/jr0cket/london-clojurians-logo/raw/master/london-clojurians-logo.svg) or [PNG](https://github.com/jr0cket/london-clojurians-logo/raw/master/london-clojurians-logo.png) formats.
+The logo is available as [SVG](https://github.com/practicalli/london-clojurians-logo/blob/main/london-clojurians-logo.svg?raw=true) or [PNG](https://github.com/practicalli/london-clojurians-logo/blob/main/london-clojurians-logo.png?raw=true) formats.
 
 
 ## Copyright & Licence
 
-Copyright © 2016 John Stevenson [@jr0cket](https://twitter.com/jr0cket)
+Copyright © 2016 Practicalli [@jr0cket](https://twitter.com/jr0cket)
 
-Distributed under the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org).
+Distributed under the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org).  Please use the logo to represent any London Clojurians activities or as a link to our community.
 
 
 ## Banners
@@ -20,9 +20,9 @@ The logo is also available as part of a banner that can be used to promote the L
 
 ![London Clojurians logo](banners/london-clojurians-banner-new.png)
 
-The banner is available as [SVG](https://github.com/jr0cket/london-clojurians-logo/blob/master/banners/london-clojurians-banner-new.svg) or [PNG](https://github.com/jr0cket/london-clojurians-logo/blob/master/banners/london-clojurians-banner-new.png) formats.
+The banner is available as [SVG](https://github.com/practicalli/london-clojurians-logo/blob/main/banners/london-clojurians-banner-new.svg?raw=true) or [PNG](https://github.com/practicalli/london-clojurians-logo/blob/main/banners/london-clojurians-banner-new.png?raw=true) formats.
 
-There is also a banner specifically for Google Forms, available as [SVG](https://github.com/jr0cket/london-clojurians-logo/raw/master/banners/london-clojurians-banner-lambda-google-form.png) or [PNG](https://github.com/jr0cket/london-clojurians-logo/raw/master/banners/london-clojurians-banner-lambda-google-form.png) formats.
+There is also a banner specifically for Google Forms, available as [SVG](https://github.com/practicalli/london-clojurians-logo/blob/main/banners/london-clojurians-banner-lambda-google-form.svg?raw=true) or [PNG](https://github.com/practicalli/london-clojurians-logo/blob/main/banners/london-clojurians-banner-lambda-google-form.png?raw=true) formats.
 
 
 ## Design tools
